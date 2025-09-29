@@ -4,3 +4,4 @@ tasks:
     1- git init 
     2- git add text.txt
     3- git commit -m "commit message"
+    4- git push origin main
